@@ -37,7 +37,9 @@ Uygulama ile yapabildiklerimiz:
 * Küme Sayısı'nı belirterek girilen noktaları kaç adet kümeye böleceğinizi belirtebilrisiniz
 * Başlangıç kümesi seç butonu ile belitilen küme sayısı kapar başlangı kümesi seçtirebilirsiz
 * Küme merkezlerini bul butonu ile elemanların hangi kümeye ait olduğunu bulabiliriz ve renklendirme ile görsel olarak görebilirsiz. 
- 
+
+
+ <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -46,6 +48,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [C#](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
 * [WinForm](https://docs.microsoft.com/tr-tr/dotnet/desktop/winforms/windows-forms-overview?view=netframeworkdesktop-4.8) 
  
+ <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -62,6 +65,8 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/adildeveci/K-means.git
    ```
+   
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -72,6 +77,7 @@ This is an example of how to list things you need to use the software and how to
 * Küme merkezi bul butonuna basarak kümeleme yapıp sonucu görün
 * Restart butonuna basarak tekrar deneyebilirsiniz
  
+ <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
